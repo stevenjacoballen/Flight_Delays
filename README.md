@@ -1,4 +1,4 @@
-# Flight_Delays_ML
+# Flight_Delays
 
 ## Research Question
 
