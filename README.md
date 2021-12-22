@@ -1,5 +1,4 @@
 # Flight_Delays_ML
-Author: Steven Allen
 
 ## Research Question
 
@@ -17,8 +16,3 @@ How accurately (via recall) can flight delays be predicted using airline perform
 5. **Principal Component Analysis:** Conduct PCA on data set to reduce dimensionality and ideally, increase model performance/efficiency.
 6. **Retrain Models:** Retrain both models after PCA using the optimally tuned hyperparameters. 
 7. **Results, Observations, Conclusion:** Evaluate baseline, tuned, and post-PCA performance for both ML models.
-
-## File Information
-Finalized_Dataset.csv: dataset used for the project.
-
-Flight_Delays_ML.ipynb: Jupyter notebook containing the code.
