@@ -15,8 +15,8 @@ How accurately (via recall) can flight delays be predicted using airline perform
     * Logistic Regression
     * Gradient Boosting Classifier
 5. **Principal Component Analysis:** Conduct PCA on data set to reduce dimensionality and ideally, increase model performance/efficiency.
-6. **Retrain Models:** Retrain both models above using the optimally tuned hyperparameters.
-7. **Results, Observations, Conclusion.**
+6. **Retrain Models:** Retrain both models after PCA using the optimally tuned hyperparameters. 
+7. **Results, Observations, Conclusion:** Evaluate baseline, tuned, and post-PCA performance for both ML models.
 
 ## File Information
 Finalized_Dataset.csv: dataset used for the project.
